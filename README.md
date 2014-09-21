@@ -10,5 +10,8 @@ a. ui.R
 b. server.R and
 c. 24-HR PSI.csv (the sample dataset to input after the app is launch)
 
+If you want to test my published app, please checkout the following URL for my shiny app is: https://dreamz.shinyapps.io/PSIData/
+but remember to download the (c) the sample 24-HR PSI.csv dataset.  Have fun!
+
 Do provide me any inputs as I'm new to programming.
 Thanks in advance
